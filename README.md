@@ -1,4 +1,4 @@
-# Danny Homes – Full Stack Developer
+# Full Stack Developer
 
 Welcome to my portfolio repository!  
 This repository showcases my experience, skills, and projects as a Full Stack Developer.
@@ -10,7 +10,7 @@ This repository showcases my experience, skills, and projects as a Full Stack De
 
 ## 👨‍💻 About Me
 
-I'm Danny Homes, a Full Stack Developer with substantial experience in both frontend and backend technologies. I am passionate about building scalable web applications and solving complex problems with clean, efficient code. My work demonstrates a commitment to delivering robust solutions and collaborating effectively with diverse teams.
+I'm a Full Stack Developer with substantial experience in both frontend and backend technologies. I am passionate about building scalable web applications and solving complex problems with clean, efficient code. My work demonstrates a commitment to delivering robust solutions and collaborating effectively with diverse teams.
 
 ---
 
