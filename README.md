@@ -4,7 +4,7 @@ Welcome to my portfolio repository!
 This repository showcases my experience, skills, and projects as a Full Stack Developer.
 
 ## 📧 Contact
-- **Email:** [xiaoming154245@gmail.com](mailto:xiaoming154245@gmail.com)
+- **Email:** [dannyhomes15@outlook.com](mailto:dannyhomes15@outlook.com)
 
 ---
 
