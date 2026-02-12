@@ -56,4 +56,4 @@ I'm Jonathan Davis, a Full Stack Developer with substantial experience in both f
 ## 🤝 Let's Connect
 
 I’m open to new opportunities, collaborations, and freelance work.  
-Feel free to reach out via [email](mailto:xiaoming154245@gmail.com).
+Feel free to reach out via [email](mailto:dannyhomes15@outlook.com).
